@@ -20,7 +20,11 @@ This project analyzes student marks using python and Numpy.
  conditional indexing
  aggeration function 
  loops
- 
+
+ ##How to Run
+ 1.Install Python(3.x)
+ 2.Install Numpy using 'pip install Numpy'
+ 3.Run the Python file using 'python students_marks_analysis.ipynb'
  
 ##Author 
 Yashda Gupta
