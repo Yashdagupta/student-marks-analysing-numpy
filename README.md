@@ -2,7 +2,7 @@
 
 ## 📌 Description
 
-This project analyzes student marks using Python, NumPy, and Pandas to understand and compare student performance.
+This project analyzes student marks using Python and NumPy to understand and compare student performance.
 
 ## 🎯 Objectives
 
@@ -16,13 +16,11 @@ This project analyzes student marks using Python, NumPy, and Pandas to understan
 
 - Python
 - NumPy
-- Pandas
 - Jupyter Notebook
 
 ## 📊 Analysis Performed
 
 - Data handling using NumPy
-- Data manipulation using Pandas
 - Student marks analysis
 - Calculation and comparison of marks
 - Analysis of student performance
@@ -30,7 +28,7 @@ This project analyzes student marks using Python, NumPy, and Pandas to understan
 
 ## 🔍 Key Insights
 
-The project provides insights into student performance by analyzing and comparing marks using Python, NumPy, and Pandas.
+The project provides insights into student performance by analyzing and comparing marks using Python and NumPy.
 
 ## 👩‍💻 Author
 
