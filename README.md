@@ -1,32 +1,39 @@
-#student Marks Analysis(python+Numpy)
+# Student Marks Analysis 📊
 
-This project analyzes student marks using python and Numpy.
-##Features
--Student-wise average marks
--student-wise average marks
--subject-wise max & min marks
--subject-wise max& min marks
--total marks detection
--Topper identification
--Failed students detection
+## 📌 Description
 
-##Technologies used
--Python
--Numpy
+This project analyzes student marks using Python, NumPy, and Pandas to understand and compare student performance.
 
-##Concepts Used
- Numpy arrays
- Axis based operations
- conditional indexing
- aggeration function 
- loops
+## 🎯 Objectives
 
- ##How to Run
- 1.Install Python(3.x)
- 2.Install Numpy using 'pip install Numpy'
- 3.Run the Python file using 'python students_marks_analysis.ipynb'
- 
-##Author 
-Yashda Gupta
+- Analyze student marks
+- Calculate and compare marks
+- Analyze student performance
+- Identify patterns in the marks data
+- Generate meaningful insights from the dataset
 
+## 🛠️ Tools & Technologies
 
+- Python
+- NumPy
+- Pandas
+- Jupyter Notebook
+
+## 📊 Analysis Performed
+
+- Data handling using NumPy
+- Data manipulation using Pandas
+- Student marks analysis
+- Calculation and comparison of marks
+- Analysis of student performance
+- Extracting relevant insights from the dataset
+
+## 🔍 Key Insights
+
+The project provides insights into student performance by analyzing and comparing marks using Python, NumPy, and Pandas.
+
+## 👩‍💻 Author
+
+**Yashda Gupta**
+
+B.Tech AIML Student | Aspiring Data Analyst
